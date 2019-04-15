@@ -1,0 +1,56 @@
+<list>
+  <contact>
+    <firstname>UserName0</firstname>
+    <middlename>UserMidldleName0</middlename>
+    <lastname>UserLastName0</lastname>
+    <group>test</group>
+    <nickname>Nickname0</nickname>
+    <title__contact>Title0</title__contact>
+    <company>Company0</company>
+    <address>Ukraine, ul. TestStr 0, kv. 0</address>
+    <home__phone>+7 774 777 770</home__phone>
+    <mobile__phone>+380972233310</mobile__phone>
+    <work__phone>+380972255310</work__phone>
+    <fax__phone>+3809722333110</fax__phone>
+    <email1__contact>testemail0@mail.ru</email1__contact>
+    <email2__contact>testemail20@mail.ru</email2__contact>
+    <email3__contact>testemail30@mail.ru</email3__contact>
+    <photo>src\test\resources\photo.jpg</photo>
+  </contact>
+  <contact>
+    <firstname>UserName1</firstname>
+    <middlename>UserMidldleName1</middlename>
+    <lastname>UserLastName1</lastname>
+    <group>test</group>
+    <nickname>Nickname1</nickname>
+    <title__contact>Title1</title__contact>
+    <company>Company1</company>
+    <address>Ukraine, ul. TestStr 1, kv. 1</address>
+    <home__phone>+7 774 777 771</home__phone>
+    <mobile__phone>+380972233311</mobile__phone>
+    <work__phone>+380972255311</work__phone>
+    <fax__phone>+3809722333111</fax__phone>
+    <email1__contact>testemail1@mail.ru</email1__contact>
+    <email2__contact>testemail21@mail.ru</email2__contact>
+    <email3__contact>testemail31@mail.ru</email3__contact>
+    <photo>src\test\resources\photo.jpg</photo>
+  </contact>
+  <contact>
+    <firstname>UserName2</firstname>
+    <middlename>UserMidldleName2</middlename>
+    <lastname>UserLastName2</lastname>
+    <group>test</group>
+    <nickname>Nickname2</nickname>
+    <title__contact>Title2</title__contact>
+    <company>Company2</company>
+    <address>Ukraine, ul. TestStr 2, kv. 2</address>
+    <home__phone>+7 774 777 772</home__phone>
+    <mobile__phone>+380972233312</mobile__phone>
+    <work__phone>+380972255312</work__phone>
+    <fax__phone>+3809722333112</fax__phone>
+    <email1__contact>testemail2@mail.ru</email1__contact>
+    <email2__contact>testemail22@mail.ru</email2__contact>
+    <email3__contact>testemail32@mail.ru</email3__contact>
+    <photo>src\test\resources\photo.jpg</photo>
+  </contact>
+</list>
